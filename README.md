@@ -2,6 +2,9 @@
 # [LOGIN](https://takagotch.github.io/snippets13/)
 # [パスワード再設定](https://takagotch.github.io/snippets24/)
 
+# [登録1](https://takagotch.github.io/snippets18/)
+# [登録2](https://takagotch.github.io/snippets12/)
+
 
 ### Bootstrap Login Screen with Floating Labels | snippets13
 ---
